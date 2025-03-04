@@ -19,7 +19,7 @@ work? Interesting?"<<endl;
     }
 };
 int main(){
-  Raghav obj;
+  Himanshu obj;
   obj.current_status();
   obj.say_bye();
   return 0;
