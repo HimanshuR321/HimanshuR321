@@ -1,8 +1,4 @@
 ```cpp
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Himanshu {
   private:
     string name, college, degree, strength;
@@ -26,10 +22,3 @@ class Himanshu {
         cout << "Thanks for dropping by. How did you find my work? Interesting?" << endl;
     }
 };
-
-int main() {
-    Himanshu obj;
-    obj.current_status();
-    obj.say_bye();
-    return 0;
-}
