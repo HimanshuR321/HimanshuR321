@@ -5,7 +5,7 @@ class Himanshu {
     vector<string> languages_spoken;
   
   public:
-    Himanshu() {  // Constructor
+    Himanshu() {  
         name = "Himanshu Raj";
         college = "Indian Institute of Technology, Bombay";
         degree = "B.Tech. in Metallurgical Engineering and Materials Science";
