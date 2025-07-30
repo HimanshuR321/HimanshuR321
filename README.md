@@ -9,12 +9,12 @@ class Himanshu {
         name = "Himanshu Raj";
         college = "Indian Institute of Technology, Bombay";
         degree = "B.Tech. in Metallurgical Engineering and Materials Science";
-        strength = "Strong hold in DS Algo and MERN Stack Web Development";
+        strength = "Strong hold in DS Algo and any sort-of Web Development";
         languages_spoken = {"English", "Hindi"};
     }
     
     void current_status() {
-        cout << "I am a third-year student at " << college 
+        cout << "I am a fourth-year student at " << college 
              << " pursuing " << degree << endl;
     }
 
