@@ -21,4 +21,8 @@ class Himanshu {
     void say_bye() {
         cout << "Thanks for dropping by. How did you find my work? Interesting?" << endl;
     }
+
+    void request() {
+        cout << "Hire me, please" << endl;
+    }
 };
